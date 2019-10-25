@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in the Computational Biology Program and Biomedical Engineering departments at Oregon Health & Science University in Portland, OR. Under the mentorship of Dr. Young Hwan Chang, I work through the OHSU Center for Spatial Systems Biomedicine and the Knight Cancer Institute to develop data-driven and deep learning approaches to better understand the role of spatial organization in cancer. My research interests broadly pertain to biology at single-cell resolution and the development of computational approaches to integrate diverse data modalities from complementary technologies to enhance our understanding of tumor evolution.
+I am currently a PhD candidate in the [Computational Biology Program](https://www.ohsu.edu/school-of-medicine/computational-biology) and Biomedical Engineering Department at Oregon Health & Science University in Portland, OR. Under the mentorship of Dr. Young Hwan Chang, I work through the OHSU Center for Spatial Systems Biomedicine and the Knight Cancer Institute to develop data-driven and deep learning approaches to better understand the role of spatial organization in cancer. My research interests broadly pertain to biology at single-cell resolution and the development of computational approaches to integrate diverse data modalities from complementary technologies to enhance our understanding of tumor evolution.
 
 About this
 -----
