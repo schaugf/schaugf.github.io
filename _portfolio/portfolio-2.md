@@ -1,6 +1,6 @@
 ---
 title: "Imaging-Omics Translation"
-excerpt: "Deep learning systems for imaging-omics integration <br/><img src='/images/xae_composite.pdf'>"
+excerpt: "Deep learning systems for imaging-omics integration <br/><embed src='/images/xae_composite.pdf'>"
 collection: portfolio
 ---
 
