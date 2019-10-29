@@ -14,5 +14,5 @@ You can view my CV [here](/files/schau_cv.pdf)
 
 About this
 -----
-For a bunch of reasons, I try to maintain a relatively low online profile, particularly with respect to social media and the like. I own no twitter, facebook, or linkedin account nor do I have no plans to. As such, this simple website is the entirety of my public-facing web-presence. 
+For a bunch of reasons, I try to maintain a relatively low online profile, particularly with respect to social media and the like. I own no twitter, facebook, or linkedin account nor do I have any plans to. As such, this simple website is the majority of my public-facing web-presence. 
 If you want to contact me, I recommend you email me directly at schau.geoffrey@gmail.com.
