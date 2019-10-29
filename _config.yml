@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Geoffrey F. Schau"
 title_separator          : "-"
-name                     : &name "Geoffrey Schau"
+name                     : &name "Geoffrey F. Schau"
 description              : &description "Computational biology"
 url                      : https://schaugf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
