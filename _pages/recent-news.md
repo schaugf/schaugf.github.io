@@ -8,7 +8,6 @@ redirect_from:
   - /recent-news.html
 ---
 
-# News!
+# Happenings
 
-1. item 1
-2. item 2
+- item
