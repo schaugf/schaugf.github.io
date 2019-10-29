@@ -1,6 +1,6 @@
 ---
 title: "Neural Estimation of Metastatic Origin"
-excerpt: "Seeing metastatic liver cancer <br/><img src='/images/livermet.png'>"
+excerpt: "Seeing metastatic liver cancer <br/><img src='/images/livermet.png' width="200">"
 collection: portfolio
 ---
 
