@@ -1,6 +1,6 @@
 ---
 title: "SHIFT: Speedy Histopathological to Immunofluorescence Translation"
-excerpt: "Seeing metastatic liver cancer <br/><img src='/images/shift.png'>"
+excerpt: "SHIFT <br/><img src='/images/shift.png'>"
 collection: portfolio
 ---
 
