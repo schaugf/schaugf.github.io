@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Geoffrey Schau"
+title                    : "Geoffrey F. Schau"
 title_separator          : "-"
 name                     : &name "Geoffrey Schau"
 description              : &description "Computational biology"
