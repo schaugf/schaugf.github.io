@@ -1,11 +1,13 @@
 ---
 title: "Neural Estimation of Metastatic Origin"
-excerpt: "Seeing metastatic liver cancer <br/><img src='/images/livermet.png'>"
+excerpt: "Seeing where metastatic liver cancers originate <br/><img src='/images/livermet.png'>"
 collection: portfolio
 ---
 
 # Seeing where metastases come from
 
-Deep neural networks are powerful computational tools for learning features in diverse imaging datasets. Working with collaborators in the [Knight BioLibrary](https://knightdxlabs.ohsu.edu/home/research-services/knight-cancer-institute-biolibrary) at the Knight Diagnostic Laboratories, we are training deep learning systems to identify where metastatic cancer comes from just by looking at it. 
+Metastatic cancers can often arise from just about anywhere, often finding nefarious homes in the liver, brain, lung, or bone.
+Interestingly, metastatic cancers often exhibit morphological features similar to their primary site of origin.
+Leveraging this bit of insight, I'm working with collaborators in the [Knight BioLibrary](https://knightdxlabs.ohsu.edu/home/research-services/knight-cancer-institute-biolibrary) at the Knight Diagnostic Laboratories, to develop computer vision systems to predict where metastatic cancer comes from just by looking at it.
 
-You can find a few preliminary results in our [bioRxiv paper](https://www.biorxiv.org/content/10.1101/689828v1)
+This work is ongoing, but you can find a few preliminary results in our [bioRxiv paper](https://www.biorxiv.org/content/10.1101/689828v1)
