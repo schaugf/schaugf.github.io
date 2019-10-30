@@ -5,4 +5,4 @@ permalink: /bio/
 author_profile: true
 ---
 
-My bio
+Hello, I'm Geoff
