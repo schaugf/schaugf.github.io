@@ -6,9 +6,6 @@ main:
   - title: "Recent News"
     url: /recent-news/
   
-  -title: "Bio"
-    url: /bio/
-  
   - title: "Blog Posts"
     url: /year-archive/
     
