@@ -12,3 +12,4 @@ author_profile: true
 - June, 2019: Brought home a $5000 Impact Award from [InventOR](https://www.inventoregon.org/post/ohsu-team-shifting-perspective-on-disease-detection-with-ai) for the SHIFT project!
 - April, 2019: Funded by OCSSB to attend and present our work at IABCR in Egmond an Zee, The Netherlands w/ Kristof Torkenscy of the [Adey Lab](https://adeylab.org/). Nice trip!
 - February, 2019: Presented current work at the [SPIE Medical Imaging Conference](https://www.spie.org/conferences-and-exhibitions/past-conferences-and-exhibitions/medical-imaging-2019?SSO=1) in sunny San Diego
+- January, 2019: Our team received a $40,000 prototyping grant from OCTRI to explore commercialization of the SHIFT project!
