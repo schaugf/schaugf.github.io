@@ -5,11 +5,11 @@ permalink: /recent-news/
 author_profile: true
 ---
 
-- October, 2019: Our project proposal *In silico optimization of drug treatments in triple-negative breast cancer* has been funded by the [West Coast Cancer Systems Biology Consortium](https://csbconsortium.org/news/inaugural-cancer-systems-biology-consortium-west-coast-symposium/)!
+- October, 2019: Our project proposal *In silico optimization of drug treatments in triple-negative breast cancer* has been funded ($36,600) by the [West Coast Cancer Systems Biology Consortium](https://csbconsortium.org/news/inaugural-cancer-systems-biology-consortium-west-coast-symposium/)! We've got a great team!
 - September, 2019: The whole Chang Lab attended the [BioImaging Informatics Conference](https://alleninstitute.org/events-training/bioimage-informatics-2019/) at the Allen Institute in Seattle.
 - September, 2019: Got on stage to talk shop at the [Frontier of AI-Assisted Care Scientific Symposium](http://med.stanford.edu/frontierofaicare/abstract.html) at Stanford University.
 - August, 2019: Gave a talk on the NEMO project at the [PacNow Quantitative Biology Symposium](https://sites.google.com/site/pacnowqb/home) co-hosted with Reed College @ OHSU. 
-- June, 2019: Brought home a $5000 Impact Award from [InventOR](https://www.inventoregon.org/post/ohsu-team-shifting-perspective-on-disease-detection-with-ai) for the SHIFT project!
+- June, 2019: Erik and I brought home a $5,000 Impact Award from [InventOR](https://www.inventoregon.org/post/ohsu-team-shifting-perspective-on-disease-detection-with-ai) for the SHIFT project!
 - April, 2019: Funded by OCSSB to attend and present our work at IABCR in Egmond an Zee, The Netherlands w/ Kristof Torkenscy of the [Adey Lab](https://adeylab.org/). Nice trip!
 - February, 2019: Presented current work at the [SPIE Medical Imaging Conference](https://www.spie.org/conferences-and-exhibitions/past-conferences-and-exhibitions/medical-imaging-2019?SSO=1) in sunny San Diego
 - January, 2019: Our team received a $40,000 prototyping grant from OCTRI to explore commercialization of the SHIFT project!
