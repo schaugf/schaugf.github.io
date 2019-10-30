@@ -7,7 +7,7 @@ author_profile: true
 
 - October, 2019: Our project proposal *In silico optimization of drug treatments in triple-negative breast cancer* has been funded ($36,600) by the [West Coast Cancer Systems Biology Consortium](https://csbconsortium.org/news/inaugural-cancer-systems-biology-consortium-west-coast-symposium/)! We've got a great team!
 - September, 2019: The whole Chang Lab attended the [BioImaging Informatics Conference](https://alleninstitute.org/events-training/bioimage-informatics-2019/) at the Allen Institute in Seattle.
-- September, 2019: Got on stage to talk shop at the [Frontier of AI-Assisted Care Scientific Symposium](http://med.stanford.edu/frontierofaicare/abstract.html) at Stanford University.
+- September, 2019: Got on stage to talk shop at the [Frontier of AI-Assisted Care Scientific Symposium](http://med.stanford.edu/frontierofaicare/abstract.html) at Stanford University, with an [action photo](https://www.flickr.com/photos/184699232@N04/48804546867/in/album-72157711087671666/)!
 - August, 2019: Gave a talk on the NEMO project at the [PacNow Quantitative Biology Symposium](https://sites.google.com/site/pacnowqb/home) co-hosted with Reed College @ OHSU. 
 - June, 2019: Erik and I brought home a $5,000 Impact Award from [InventOR](https://www.inventoregon.org/post/ohsu-team-shifting-perspective-on-disease-detection-with-ai) for the SHIFT project!
 - April, 2019: Funded by OCSSB to attend and present our work at IABCR in Egmond an Zee, The Netherlands w/ Kristof Torkenscy of the [Adey Lab](https://adeylab.org/). Nice trip!
