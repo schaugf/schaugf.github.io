@@ -5,7 +5,7 @@ permalink: /recent-news/
 author_profile: true
 ---
 
-- November, 2019: Had a great time at the [2019 Oregon Bioengineering Symposium](https://blogs.oregonstate.edu/bioengineering/) at Oregon State University meeting folks from across the state bringing industry and academia together
+- November, 2019: Had a great time at the [2019 Oregon Bioengineering Symposium](https://blogs.oregonstate.edu/bioengineering/) at Oregon State University meeting folks from across the state bringing industry and academia leaders in our field closer together
 - November, 2019: Honored to have had the opportunity to participate in the 9th annual [Integrated Mathematical Oncology](http://labpages.moffitt.org/imo/) Workshop on Evolutionary Tumor Boards at Moffitt Cancer Center! Fascinating and exhausting week of learning, modeling, coding, and presenting our work on the mathematics of recurrence in glioblastoma multiforme. (With special [shout-out](https://twitter.com/ara_anderson/status/1192819406474272768) from our host, Sandy Anderson!)
 - October, 2019: Our project proposal *In silico optimization of drug treatments in triple-negative breast cancer* has been funded ($36,600) by the [West Coast Cancer Systems Biology Consortium](https://csbconsortium.org/news/inaugural-cancer-systems-biology-consortium-west-coast-symposium/)! We've got a great team!
 - September, 2019: The whole Chang Lab attended the [BioImaging Informatics Conference](https://alleninstitute.org/events-training/bioimage-informatics-2019/) at the Allen Institute in Seattle full of fascinating and beautiful imaging science
