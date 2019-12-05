@@ -12,7 +12,7 @@ I am currently a PhD candidate in the [Computational Biology Program](https://ww
 My work is principally funded through The Center for Measuring, Modeling and Controlling Heterogeneity ([M2CH](https://www.ohsu.edu/spatial-systems-biomedicine-center/measuring-modeling-and-controlling-heterogeneity-center-cancer)), a U54 Research Center through the National Cancer Institute and Cancer Systems Biology Consortium focusing on advancing understanding and control of triple negative breast cancer.  
 My research interests broadly pertain to biology at single-cell resolution and the development of computational approaches to integrate diverse data modalities from complementary technologies to enhance our understanding of tumor evolution.
 
-You can view my CV [here](/files/schau_cv.pdf)
+You can view my CV [here](/files/schau_cv.pdf).
 
 About this
 -----
