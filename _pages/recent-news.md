@@ -5,6 +5,7 @@ permalink: /recent-news/
 author_profile: true
 ---
 
+- January, 2020: Presented a few ideas and challenges to the [Cancer Systems Biology Consortium/Physical Sciences Oncology Network (CSBC-PSON) Image Analaysis Workshop](https://www.synapse.org/#!Synapse:syn20646053) on emerging opportunities in medical imaging. Great meeting so many familiar names in person, and looking forward to the upcoming hackathon in March.
 - December, 2019: Presented our work at the Learning Meaningful Representations of Life ([LMRL](https://lmrl-bio.github.io/)) workshop at this year's [NeurIPS](https://neurips.cc/) conference following an incredible week of talks, demos, and conversations with folks from all over the AI space. Looking forward to next year!
 - November, 2019: Had a great time at the [2019 Oregon Bioengineering Symposium](https://blogs.oregonstate.edu/bioengineering/) at Oregon State University meeting folks from across the state bringing industry and academia leaders in our field closer together
 - November, 2019: Honored to have had the opportunity to participate in the 9th annual [Integrated Mathematical Oncology](http://labpages.moffitt.org/imo/) Workshop on Evolutionary Tumor Boards at Moffitt Cancer Center! Fascinating and exhausting week of learning, modeling, coding, and presenting our work on the mathematics of recurrence in glioblastoma multiforme. (With special [shout-out](https://twitter.com/ara_anderson/status/1192819406474272768) from our host, Sandy Anderson!)
