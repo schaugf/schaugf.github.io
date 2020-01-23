@@ -1,6 +1,6 @@
 ---
 title: "Neural Estimation of Metastatic Origin"
-excerpt: "NEMO <br/><img src='/images/livermet.png'>"
+excerpt: "NEMO <br/><img src='/images/nemo_concept.png'>"
 collection: portfolio
 ---
 
