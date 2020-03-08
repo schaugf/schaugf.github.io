@@ -5,6 +5,7 @@ permalink: /recent-news/
 author_profile: true
 ---
 
+- March, 2020: Had a great time at the CSBC-PSON Hackathon! Our team built a tool to study and visualize assymetry in PD1 expression. Check it out [here](https://github.com/IAWG-CSBC-PSON/pd1-asymmetry)!
 - January, 2020: Presented some of our work, ideas, and challenges on learning single-cell morphology representations to the [Cancer Systems Biology Consortium/Physical Sciences Oncology Network (CSBC-PSON) Image Analaysis Workshop](https://www.synapse.org/#!Synapse:syn20646053). Great meeting so many familiar names in person; looking forward to the March hackathon in Nashville!
 - December, 2019: Presented our work at the Learning Meaningful Representations of Life ([LMRL](https://lmrl-bio.github.io/)) workshop at this year's [NeurIPS](https://neurips.cc/) conference following an incredible week of talks, demos, and conversations with folks from all over the AI space. Looking forward to next year!
 - November, 2019: Had a great time at the [2019 Oregon Bioengineering Symposium](https://blogs.oregonstate.edu/bioengineering/) at Oregon State University meeting folks from across the state bringing industry and academia leaders in our field closer together
