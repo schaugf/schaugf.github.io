@@ -5,6 +5,7 @@ permalink: /recent-news/
 author_profile: true
 ---
 
+- June, 2020: Honored to accept a full-time position as Associate Scientist, Digital Pathology & AI with the Oncology Biomarker Development team at Genentech. Further, I am thankful for the opportunity to gain additional mentorship from Garry Nolan at Stanford in multiplexed imaging technology development while there. Exciting times ahead! 
 - March, 2020: Had a great time at the CSBC-PSON Hackathon hosted by our friends at Vanderbilt in Nashville! Our team built a tool to study and visualize assymetry in PD1 expression using the CODEX multiplexed imaging platform. Check it out [here](https://github.com/IAWG-CSBC-PSON/pd1-asymmetry)! Preprint coming soon.
 - January, 2020: Presented some of our work, ideas, and challenges on learning single-cell morphology representations to the [Cancer Systems Biology Consortium/Physical Sciences Oncology Network (CSBC-PSON) Image Analaysis Workshop](https://www.synapse.org/#!Synapse:syn20646053). Great meeting so many familiar names in person; looking forward to the March hackathon in Nashville!
 - December, 2019: Presented our work at the Learning Meaningful Representations of Life ([LMRL](https://lmrl-bio.github.io/)) workshop at this year's [NeurIPS](https://neurips.cc/) conference following an incredible week of talks, demos, and conversations with folks from all over the AI space. Looking forward to next year!
