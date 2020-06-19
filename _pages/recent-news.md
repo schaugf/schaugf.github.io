@@ -5,6 +5,7 @@ permalink: /recent-news/
 author_profile: true
 ---
 
+- June, 2020: Happy to have presented at the first, and hopefully now-annual, [OHSU - PSU Machine Learning for Health Workshop](http://www.pi4cs.org/mlhworkshop). As an alumni of one institute and future alumni of the other, I'm glad to see these two institutions getting closer together
 - June, 2020: Honored to accept a full-time position as Associate Scientist, Digital Pathology & AI with the Oncology Biomarker Development team at [Genentech](https://www.gene.com/). I am also thankful for the opportunity to gain additional mentorship from [Garry Nolan](https://web.stanford.edu/group/nolan/) at Stanford in multiplexed imaging technology development while there. Exciting times ahead! 
 - March, 2020: Had a great time at the CSBC-PSON Hackathon hosted by our friends at Vanderbilt in Nashville! Our team built a tool to study and visualize assymetry in PD1 expression using the CODEX multiplexed imaging platform. Check it out [here](https://github.com/IAWG-CSBC-PSON/pd1-asymmetry)! Preprint coming soon.
 - January, 2020: Presented some of our work, ideas, and challenges on learning single-cell morphology representations to the [Cancer Systems Biology Consortium/Physical Sciences Oncology Network (CSBC-PSON) Image Analaysis Workshop](https://www.synapse.org/#!Synapse:syn20646053). Great meeting so many familiar names in person; looking forward to the March hackathon in Nashville!
