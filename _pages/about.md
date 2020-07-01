@@ -12,9 +12,7 @@ I am currently a PhD candidate in the [Computational Biology Program](https://ww
 My work is principally funded through The Center for Measuring, Modeling and Controlling Heterogeneity ([M2CH](https://www.ohsu.edu/spatial-systems-biomedicine-center/measuring-modeling-and-controlling-heterogeneity-center-cancer)), a U54 Research Center through the National Cancer Institute and Cancer Systems Biology Consortium focusing on advancing understanding and control of triple negative breast cancer.  
 My research interests broadly pertain to biology at single-cell resolution and the development of computational approaches to integrate diverse data modalities from complementary technologies to enhance our understanding of tumor evolution.
 
+This fall I will begin a new position as Associate Scientist in Digital Pathology & Artificial Intelligence with the Oncology Biomarker Development team at Genentech in South San Francisco. While there, I will be acquiring additional mentorship from Professor Garry Nolan at Stanford University in multiplex imaging technology and computational methods development. 
+
 You can view my CV [here](/files/schau_cv.pdf).
 
-About this
------
-For a bunch of reasons, I try to maintain a relatively low online profile, particularly with respect to social media and the like. I own no twitter, facebook, or linkedin account nor do I have any plans to. As such, this simple website is the majority of my public-facing web-presence. 
-If you want to contact me, I recommend you email me directly at schau.geoffrey@gmail.com.
