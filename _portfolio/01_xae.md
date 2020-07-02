@@ -6,6 +6,4 @@ collection: portfolio
 
 Imaging and genomic sequencing technologies represent two pillars of biomedical science and technologies, each capturing distinct aspects of cellular properties essential for describing underlying biological processes.
 When presented with single-cell resolution measurements from both imaging and genomic domains of the same underlying biological sample, a natural problem arises: how do we pair an image of a cell with its corresponding genomic profile?
-Approaching this problem through self-supervised learning is the primary motivation of my thesis.
-
-I'm excited to share more of this work at this year's NeurIPS workshop: Learning Meaningful Representations of Life (LMRL).
+Though still preliminary, you can get an idea of our learning approach [here](https://github.com/schaugf/XAE)
