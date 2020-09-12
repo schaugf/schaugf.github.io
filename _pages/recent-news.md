@@ -5,8 +5,8 @@ permalink: /recent-news/
 author_profile: true
 ---
 
-- August, 2020: PhD defended! Accomplished my goal of defending before turning 30 with less than a week to spare.
-- July, 2020: Our paper "DISSECT: DISentangle SharablE ConTent for Multimodal Integration and Crosswise-mapping” has been accepted for presentation at, and publication in the proceedings of, the 2020 59th IEEE Conference on Decision and Control! Our first steps towards general-purpose unsupervised imaging-omics domain translation
+- August, 2020: PhD defended! Accomplished my goal of defending before turning 30 with less than a week to spare
+- July, 2020: Our paper "DISSECT: DISentangle SharablE ConTent for Multimodal Integration and Crosswise-mapping” has been accepted for presentation at, and publication in the proceedings of, the 2020 59th IEEE Conference on Decision and Control! Our first steps towards general-purpose unsupervised imaging-omics domain translation. Preprint available [here](https://www.biorxiv.org/content/10.1101/2020.09.04.283234v1)
 - June, 2020: Happy to have presented at the first, and hopefully now-annual, [OHSU - PSU Machine Learning for Health Workshop](http://www.pi4cs.org/mlhworkshop). As an alumni of one institute and future alumni of the other, I'm glad to see these two institutions getting closer together
 - June, 2020: Honored to accept a full-time position as Associate Scientist, Digital Pathology & AI with the Oncology Biomarker Development team at [Genentech](https://www.gene.com/). I am also thankful for the opportunity to gain additional mentorship from [Garry Nolan](https://web.stanford.edu/group/nolan/) at Stanford in multiplexed imaging technology development while there. Exciting times ahead! 
 - March, 2020: Had a great time at the CSBC-PSON Hackathon hosted by our friends at Vanderbilt in Nashville! Our team built a tool to study and visualize assymetry in PD1 expression using the CODEX multiplexed imaging platform. Check it out [here](https://github.com/IAWG-CSBC-PSON/pd1-asymmetry)! Preprint coming soon.
