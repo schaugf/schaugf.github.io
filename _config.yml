@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Geoffrey Schau"
+  name             : "Geoffrey F. Schau, PhD"
   avatar           : "me.png"
   bio              : "Computational biologist, biomedical engineer, and data junkie against cancer"
-  location         : "Portland, OR"
-  employer         : "Oregon Health & Science University"
+  location         : "Portland, OR (Remote)"
+  employer         : "Genentech"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
