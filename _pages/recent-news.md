@@ -5,7 +5,7 @@ permalink: /recent-news/
 author_profile: true
 ---
 
-- September, 2020: Our SHIFT paper, led by (now) former labmate Erik Burlingame, has *finally* been accepted to Scientific Reports!  
+- September, 2020: Our SHIFT paper, led by (now) former labmate Erik Burlingame, has *finally* been accepted to [Scientific Reports](https://www.nature.com/articles/s41598-020-74500-3.epdf?sharing_token=QYXbBlOoOyxWPKaFWvnb-9RgN0jAjWel9jnR3ZoTv0OlWRy-Wof2V-bUb113eU9KdRko0i36dc90Y-Xb7-hWUIw4olna9Pl9shyByMBl7wC6EMrmnRQD1tqpN3HnI7Zr6i15zfVPn32TEh17ujJezImXMOUo1ucaUZG2QMrLBz8%3D)!  
 - September, 2020: Beginning work as an associate scientist at Genentech as a fully-remote employee. Despite the distance and global challenges, I'm excited to begin! Will be working with the data science team within Oncology Biomarker Development to bring digital pathology & AI into late-stage biomarker science
 - August, 2020: PhD defended! Accomplished my goal of defending before turning 30 with less than a week to spare
 - July, 2020: Our paper "DISSECT: DISentangle SharablE ConTent for Multimodal Integration and Crosswise-mapping” has been accepted for presentation and publication in the proceedings of the 2020 59th IEEE Conference on Decision and Control! Our first steps towards general-purpose unsupervised imaging-omics domain translation. Preprint available [here](https://www.biorxiv.org/content/10.1101/2020.09.04.283234v1)
